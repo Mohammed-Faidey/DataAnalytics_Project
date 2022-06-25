@@ -10,3 +10,11 @@ I suggest doing that as there are some commands based on Kaggle File Structure
 so You will not face any problems with files or other types of files structure problems
 according to the limited time I have as this project is a project for the Data Analytics class of my MSc Degree, maybe there are no finished notebooks.
 But as soon I have some free time I will make the code clean so you can more learn from it.
+
+In case you want to work on kaggle directly
+
+Exploratory Data analytics and hypothesis test  [eda-nft2021](https://www.kaggle.com/code/mohammedmmfaidey/eda-nft2021)
+
+Titles NLP and Clustring  [clustering-the-titles-nlp](https://www.kaggle.com/code/mohammedmmfaidey/clustering-the-titles-nlp)
+
+Classify the NFTs based on their creators  [top5-creators-classification](https://www.kaggle.com/code/mohammedmmfaidey/top5-creators-classification)

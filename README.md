@@ -1,6 +1,5 @@
 # DataAnalytics_Project
 
-![NFT_Projects Logo](/Unique_NFT)
 
 
 #### This Project Is First one of it's type
@@ -21,3 +20,5 @@ Exploratory Data analytics and hypothesis test  [eda-nft2021](https://www.kaggle
 Titles NLP and Clustring  [clustering-the-titles-nlp](https://www.kaggle.com/code/mohammedmmfaidey/clustering-the-titles-nlp)
 
 Classify the NFTs based on their creators  [top5-creators-classification](https://www.kaggle.com/code/mohammedmmfaidey/top5-creators-classification)
+
+![NFT_Projects Logo](Unique_NFT.png)

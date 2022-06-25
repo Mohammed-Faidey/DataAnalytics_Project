@@ -1,5 +1,8 @@
 # DataAnalytics_Project
 
+![NFT_Projects Logo](/Unique_NFT)
+
+
 #### This Project Is First one of it's type
 #### Here I work On kaggle DataSet called NFT art collection 2021, using Explatory data analysis, NLP, Computer Vision and GANS.
 #### DataSet URL [nft-art](https://www.kaggle.com/datasets/vepnar/nft-art-dataset).
